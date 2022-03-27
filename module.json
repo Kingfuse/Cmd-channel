@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": true,
+	"name": "<font color='#00FFFF'> cmd-channel </font>",
+	"author": "<font color='#FDD017'>KingFuse/Onimuru</font>",
+	"description": "Switch channels and skip the loading screen.",
+	"version": "<font color='#FF0000'>GF v115.2</font>",
+	"options": {
+		"niceName": "<font color='#00FFFF'> cmd-channel </font>",
+		"reloadable": false
+	},
+	"servers": [""],
+    "supportUrl": ""
+}
