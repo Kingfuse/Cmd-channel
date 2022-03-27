@@ -1,4 +1,4 @@
-# cmd-channel
+# Cmd-channel
 tera-proxy module to change channel via chat
 
 Use 'c n' or 'c' to advance a channel and 'c b' to go back a channel.
